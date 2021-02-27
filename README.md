@@ -2,8 +2,8 @@
 
 [Slides](slides/SparktaEnAzure.pptx)
 
-[Demo Python](demos/01-Python/readme.md)
+[Demo Python](demos/01-Python)
 
-[Spark for .Net](demos/02-NetForSpark/readme.md)
+[Spark for .Net](demos/02-NetForSpark)
 
-[AKS & Spark & SpotVM](demos/03-AKSSpark/readme.md)
+[AKS & Spark & SpotVM](demos/03-AKSSpark)
